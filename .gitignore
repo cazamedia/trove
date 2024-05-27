@@ -74,4 +74,4 @@ virtualenv
 /docker-compose.env
 /docker-compose.yml
 .ruff_cache/
-
+loopfile
